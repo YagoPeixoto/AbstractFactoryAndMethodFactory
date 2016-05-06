@@ -1,15 +1,15 @@
 package br.yago;
 
-public class LampadaFluorescente extends Lampada{
+public class LampadaFluorescente extends Lampada {
 
-	public LampadaFluorescente(){
+	public LampadaFluorescente() {
 		this.nome = "Lampada Fluorescente";
 	}
-	
+
 	@Override
 	public void ligar() {
-		
-		System.out.println("Lampada Fluorescente Iniciada");
+
+		System.out.println("Lampada Fluorescente OK");
 
 	}
 }

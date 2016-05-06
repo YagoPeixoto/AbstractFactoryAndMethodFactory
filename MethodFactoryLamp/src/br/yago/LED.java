@@ -1,8 +1,8 @@
 package br.yago;
 
-public class Fluorescente extends Lampada {
+public class LED extends Lampada {
 
-	protected Fluorescente(String eficiencia, String tipo, String watts, String marca) {
+	protected LED(String eficiencia, String tipo, String watts, String marca) {
 		super(eficiencia, tipo, watts, marca);
 	}
 
