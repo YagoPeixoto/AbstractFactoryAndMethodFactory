@@ -1,2 +1,2 @@
 # AbstractFactoryAndMethodFactory
-Exercícios de MethodFactory e AbstractFactory in java.
+Exercícios de MethodFactory, AbstractFactoryin, prototype, etc com java.
